@@ -4,4 +4,5 @@ master add one line
 demo
 Creating a new branch is quick.
 feature1
+0
 
